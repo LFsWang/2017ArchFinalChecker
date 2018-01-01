@@ -77,6 +77,7 @@ int main()
             }
         }
     }
+    cout<<AC<<endl;
     badend:;
     #ifdef __WIN32
     system("del tmp.dat");
